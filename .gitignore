@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+
+# Environment configuration files
+.env
+.env.local
+.env.test
+
+# Logs and runtime data
+logs/
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# System files
+.DS_Store
+Thumbs.db
